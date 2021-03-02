@@ -4,7 +4,7 @@
  * By Chase Cromwell
  *
  */
-Module.register("MMM-CANVAS", {
+Module.register("MMM-Canvas", {
 
     // Module config defaults.
     defaults: {
