@@ -1,0 +1,29 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-LICE .header {
+  color: #33FFFD;               /* Header color. Default is white. */
+}
+
+.MMM-LICE .timestamp {
+  color: #FFFFFF;               /* timestamp color. Default is white. */
+}
+
+.MMM-LICE .source {
+  color: #FFFFFF;               /* source color. Default is white. */
+}
+
+.MMM-LICE .symbol {
+  color: #FFFFFF;               /* symbols color. Default is white. */
+}
+
+.MMM-LICE .Currency {
+  color: #33FFFD;               /* Currency color. Default is white. */
+}
+
+.MMM-LICE .Rate {
+  color: #33FFFD;               /* Exchange color. Default is white. */
+}
